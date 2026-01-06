@@ -1,6 +1,6 @@
 :root {
     /* Core palette (tweak these to your exact tokens) */
-    --bg: #dcebf6;              /* poster background */
+    --bg: #ffffff;/*#dcebf6;*/              /* poster background */
     --panel: #ffffff;           /* cards */
     --text: #1d2e3f;            /* main navy */
     --muted: #40566b;           /* secondary text */
